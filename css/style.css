@@ -1779,6 +1779,16 @@ height: 55vw;
 
 .iframe-thing{
 	width:70vw;
-	height: 40vw;
+	height: 25vw;
 	border:0
+}
+
+#video{
+	width: 65vw;
+	height: 20vw;
+}
+
+#canvas{
+	height: 0vw;
+	width: 0vw;
 }
